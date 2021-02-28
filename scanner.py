@@ -44,6 +44,6 @@ class client(object):
 
 
 if __name__ == "__main__":
-    print("[SYNTAX]: C:\Program Files (x86)\Adobe\Adobe Utilities - CS5\ExtendScript Toolkit CS5\Legal")
+    print("[SYNTAX]: C:\Downloads")
     path = input("[FOLDER PATH]: ")
     client(path)
